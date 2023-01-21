@@ -1,0 +1,6 @@
+{
+    "editor.accessibilitySupport": "on",
+    "editor.formatOnPaste": true,
+    "window.autoDetectColorScheme": false,
+    "files.autoSave": "onFocusChange"
+}
